@@ -1,6 +1,6 @@
-# Supermarket Management System
+# SuperMarketXpress
 
-The Supermarket Management System is a Java-based application developed using Netbeans that automates the sales and purchase processes of a supermarket. The system is designed to make the supermarket management process more reliable, faster, and easier. It includes modules for administrative tasks, employee management, purchasing, sales, and billing.
+The SuperMarketXpress is a Java-based application developed using Netbeans that automates the sales and purchase processes of a supermarket. The system is designed to make the supermarket management process more reliable, faster, and easier. It includes modules for administrative tasks, employee management, purchasing, sales, and billing.
 
 ## Table of Contents
 
